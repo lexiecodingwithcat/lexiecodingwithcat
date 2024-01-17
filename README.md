@@ -15,6 +15,6 @@ const tianzi = {
 }
 ```
 
-<img src="https://mp.fzneditor.com/mmbiz_gif/7QRTvkK2qC5rljeBw8OHlRj3FxE67tX8IiaGdWUs9ibBbWw4Ba5Pjh1ic3zic6RhibaM7GbpIbIYAblZj0E053nvdxQ/0?wx_fmt=gif" width="60"> <em><b>I love coding and connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://mp.fzneditor.com/mmbiz_gif/7QRTvkK2qC5rljeBw8OHlRj3FxE67tX8IiaGdWUs9ibBbWw4Ba5Pjh1ic3zic6RhibaM7GbpIbIYAblZj0E053nvdxQ/0?wx_fmt=gif" width="80"> <em><b>I love coding and connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
