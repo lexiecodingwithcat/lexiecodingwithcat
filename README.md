@@ -14,6 +14,6 @@ const tianzi = {
  challenge: "I am doing the #100DaysOfCode challenge focused on python"
 }
 ```
-<img src="https://preview.520cc.com/58pic/36/19/17/95e58PICMUhWcy3f8gIbc_PIC2018.gif!gif_520cc_35" width="60"> <em><b>I love coding and connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://gd-hbimg.huaban.com/78ac91b47fb502cf200d0df98379a31517759e2b10c76-R8hCs1" width="60"> <em><b>I love coding and connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
