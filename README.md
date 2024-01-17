@@ -3,7 +3,7 @@
 <p><em>Learning Software Development at the SAIT <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Looking for a CO-OP in Web development<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://myqqjd.com/wp-content/uploads/2021/06/20210606152103695.gif" width="50"> A little more about me...  
 
 ```javascript
 const tianzi = {
