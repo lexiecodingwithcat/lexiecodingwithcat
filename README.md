@@ -6,8 +6,9 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const tianzi = {
   pronouns: "she" | "her",
+  preferred: "Lexie",
   code: [Javascript, HTML, CSS, Python, C#, SQL],
   tools: [React, Redux, Node, jQuery, REST, Bootstrap, Docker],
  challenge: "I am doing the #100DaysOfCode challenge focused on python"
