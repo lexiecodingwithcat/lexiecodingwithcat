@@ -14,6 +14,6 @@ const tianzi = {
  challenge: "I am doing the #100DaysOfCode challenge focused on python"
 }
 ```
-<img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" width="60"> <em><b>I love coding and connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media0.giphy.com/media/c76IJLufpNwSULPk77/giphy.gif?cid=790b76113dl69r1c8jtt4wzbjjw9z2y55kawh8cpng95tfkt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="60"> <em><b>I love coding and connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
