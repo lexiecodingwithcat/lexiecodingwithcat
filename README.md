@@ -12,7 +12,7 @@ const tianzi = {
   code: [HTML, CSS, Javascript, Python, C#, SQL],
   tools: [React, Redux, React Thunk, React Router, React Query, REST APIs, Tailwind],
  challenge: "I am learning Next.js and Java now",
- hobbies: [scuba diving, swimming, workout, hiking, movies, rock music when coding, pets, cooking]
+ hobbies: [scuba diving, swimming, workout, hiking, movies, rock music when coding, cooking]
 }
 ```
 🩵<em><b>I love coding and connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
