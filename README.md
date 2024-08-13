@@ -9,9 +9,9 @@
 const tianzi = {
   pronouns: "she" | "her",
   preferred: "Lexie",
-  code: [Javascript, HTML, CSS, Python, C#, SQL],
-  tools: [React, Redux, Node, jQuery, REST, Bootstrap, Docker],
- challenge: "I am reviewing the React.js now"
+  code: [HTML, CSS, Javascript, Python, C#, SQL],
+  tools: [React, Redux, React Thunk, React Router, React Query, REST APIs, Tailwind],
+ challenge: "I am learning Next.js and Java now"
 }
 ```
 <img src="https://media0.giphy.com/media/c76IJLufpNwSULPk77/giphy.gif?cid=790b76113dl69r1c8jtt4wzbjjw9z2y55kawh8cpng95tfkt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="40"> <em><b>I love coding and connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
