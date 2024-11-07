@@ -9,9 +9,9 @@
 const tianzi = {
   pronouns: "she" | "her",
   preferred: "Lexie",
-  code: [HTML, CSS, Javascript, Python, C#, SQL],
-  tools: [React, Redux, React Thunk, React Router, React Query, REST APIs, Tailwind],
-  challenge: "I am learning Next.js and Java now",
+  code: [HTML, CSS, JavaScript, Python, C#, Java, PLS/SQL],
+  tools: [React.js, Next.js, React Native, React Thunk, React Router, React Query, REST APIs, TailwindCSS, Oracle DB, supabase],
+  challenge: "I am learning React Native and Java now",
   hobbies: [scuba diving, swimming, workout, hiking, movies, rock music when coding, cooking]
 }
 ```
