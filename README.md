@@ -11,7 +11,7 @@ const lexie = {
   frameworks:[React.js, Next.js, React Native, Express.js, Angular, MAUI],
   db:[Oracle DB, PostgretSQL, MongoDB],
   styles:[TailwindCSS, StyledComponents, SCSS, MUI],
-  tools: [VSCode, Figma, Notion, Canva],
+  tools: [Docker, VSCode, Figma, Notion, Canva],
   challenge: "I am learning Azure now",
   hobbies: [scuba diving, swimming, workout, hiking, movies, rock music when coding, cooking]
 }
